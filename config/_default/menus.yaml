@@ -1,5 +1,5 @@
 main:
-  - name: 关于我
+  - name: 关于
     url: '/authors/orville'
     weight: 1
   - name: 文章
